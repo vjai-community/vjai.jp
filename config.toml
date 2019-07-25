@@ -28,11 +28,6 @@ theme = "hugo-serif-theme"
 	url = "/activities/"
     weight = 1
 
-[[menu.main]]
-    name = "Thành viên"
-    url = "/team/"
-    weight = 2
-
 # Footer Menu
 [[menu.footer]]
 	name = "Trang chủ"
