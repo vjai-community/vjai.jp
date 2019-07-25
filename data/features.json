@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Seminar chuyên sâu",
+    "description": "Các buổi seminar chuyên sâu về chủ đề AI: từ lý thuyết đến thực hành.",
+    "image": "/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Giao lưu - Trao đổi",
+    "description": "Về những hướng phát triển mới nhất của AI trên thế giới và trong thị trường Nhật Bản",
+    "image": "/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Hoạt động nhóm",
+    "description": "Nhóm học tập, nhóm nghiên cứu theo từng đề tài cụ thể",
+    "image": "/features/noun_3d modeling_1885342.svg"
+  }
+]

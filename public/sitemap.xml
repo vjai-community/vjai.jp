@@ -3,18 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://vjai.jp/categories/</loc>
+    <loc>/contact/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/404/</loc>
+    <lastmod>2018-02-10T10:52:03+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activities/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vjai.jp/tags/</loc>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vjai.jp/</loc>
-    <priority>0</priority>
+    <loc>/team/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url>
   
 </urlset>

@@ -1,4 +1,46 @@
-baseURL = "http://vjai.jp/"
-languageCode = "en-us"
-title = "VJAI Comming Soon!"
-theme = "ananke"
+baseURL = "/"
+languageCode = "vi-vn"
+title = "Vietnam Japan AI Community"
+themesDir = "themes"
+theme = "hugo-serif-theme"
+
+[params]
+  google_analytics_id = ""
+
+  [params.logo]
+    mobile = "/images/vjai_logo.png"
+    standard  = "/images/vjai_logo.png"
+
+  [params.homepage_meta_tags]
+    meta_description = "Cộng đồng AI Việt Nam tại Nhật Bản"
+    meta_og_title = "VJAI"
+    meta_og_type = "website"
+    meta_og_url = "https://www.vjai.jp"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    meta_og_description = "Cộng đồng AI Việt Nam tại Nhật Bản"
+    meta_twitter_card = ""
+    meta_twitter_site = "@vjai"
+    meta_twitter_creator = "@vjai"
+
+# Main Menu
+[[menu.main]]
+	name = "Hoạt động"
+	url = "/activities/"
+    weight = 1
+
+[[menu.main]]
+    name = "Thành viên"
+    url = "/team/"
+    weight = 2
+
+# Footer Menu
+[[menu.footer]]
+	name = "Trang chủ"
+	url = "/"
+    weight = 1
+
+[[menu.footer]]
+	name = "Liên hệ"
+	url = "/contact/"
+    weight = 2
+
