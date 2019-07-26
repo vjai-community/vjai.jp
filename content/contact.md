@@ -5,11 +5,4 @@ layout: contact
 menu: 'main'
 ---
 
-## Facebook
-https://www.facebook.com/groups/1332064783547219
-
-## Slack
-https://vjai.slack.com
-
-## Email
-<a href="mailto:contact@vjai.jp">contact@vjai.jp</a>
+Xin vui lòng liên hệ với VJAI qua địa chỉ e-mail hoặc kênh Facebook chính thức theo địa chỉ bên dưới.

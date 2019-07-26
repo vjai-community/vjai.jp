@@ -22,12 +22,6 @@ theme = "hugo-serif-theme"
     meta_twitter_site = "@vjai"
     meta_twitter_creator = "@vjai"
 
-# Main Menu
-[[menu.main]]
-	name = "Hoạt động"
-	url = "/activities/"
-    weight = 1
-
 # Footer Menu
 [[menu.footer]]
 	name = "Trang chủ"

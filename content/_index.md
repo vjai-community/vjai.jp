@@ -14,5 +14,8 @@ https://www.facebook.com/groups/1332064783547219
 ### Slack
 https://vjai.slack.com
 
+### GitHub
+https://github.com/vjai-community/meetup
+
 ### Email
 <a href="mailto:contact@vjai.jp">contact@vjai.jp</a>
