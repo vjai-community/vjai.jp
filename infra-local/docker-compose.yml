@@ -1,0 +1,11 @@
+services:
+  web:
+    platform: linux/amd64
+    build: ./web
+    entrypoint: /bin/sh
+    ports:
+      - 1313:1313
+    volumes:
+      - ../:/usr/local/src/vjai.jp/
+    tty: true
+    working_dir: /usr/local/src/vjai.jp/
